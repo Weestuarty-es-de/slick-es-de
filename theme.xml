@@ -392,7 +392,7 @@
             <origin>0 0</origin>
             <fontPath>${mainFont}</fontPath>
             <backgroundColor>000000</backgroundColor>
-            <backgroundPadding>0 0.015</backgroundPadding>
+            <backgroundVerticalPadding>0.015 0.015</backgroundVerticalPadding>
             <horizontalAlignment>left</horizontalAlignment>
             <verticalAlignment>center</verticalAlignment>
             <color>FFFFFF</color>
@@ -619,7 +619,7 @@
             <origin>0 0</origin>
             <fontPath>${mainFont}</fontPath>
             <backgroundColor>000000</backgroundColor>
-            <backgroundPadding>0 0.015</backgroundPadding>
+            <backgroundVerticalPadding>0.015 0.015</backgroundVerticalPadding>
             <horizontalAlignment>left</horizontalAlignment>
             <verticalAlignment>center</verticalAlignment>
             <color>FFFFFF</color>
